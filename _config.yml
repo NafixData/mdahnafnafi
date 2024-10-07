@@ -7,6 +7,7 @@ description: >-
 show_downloads: true
 theme: jekyll-theme-minimal
 
+color-scheme: auto/light/dark
 
 plugins:
   - jekyll-remote-theme
