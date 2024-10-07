@@ -1,29 +1,12 @@
-#title: Md. Ahnaf Nafi
+title: Md. Ahnaf Nafi
 logo: /assets/img/Crop.jpeg
-#description: >- 
-  #I'm an Urban Planner, working on Data Science to do a batter planned city    
- # [Email](mailto:ahnafnafi98@gmail.com)
+description: >- 
+  I'm an Urban Planner, working on Data Science to do a batter planned city    
+  [Email](mailto:ahnafnafi98@gmail.com)
   
-#show_downloads: true
-#theme: jekyll-theme-minimal
-
-title: Ahnaf Nafi's Academic Website
-email: ahnafnafi98@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  I'm an Urban Planner, working on Data Science to do a batter planned city 
-baseurl: "/ahnafnafi" # the subpath of your site, e.g. /blog
-url: "https://nafixdata.github.io" # the base hostname & protocol for your site
-
+show_downloads: true
 theme: jekyll-theme-minimal
 
-# Author Information
-author:
-  name: Ahnaf Nafi bal
-  email: ahnafnafi98@gmail.com
-  bio: "Researcher in [your field]. Focused on [specific topics]."
 
-# Navigation Links 
-navigation:
-  - title: "Home"
-    url: "/"
-
+plugins:
+  - jekyll-remote-theme
