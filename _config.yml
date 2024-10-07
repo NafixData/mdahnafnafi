@@ -1,5 +1,14 @@
 title: Md. Ahnaf Nafi
 logo: /assets/img/Crop.jpeg
-description: I'm a Urban Planner who is interested in Data Science
+description: >- 
+  I'm an Urban Planner, working on Data Science to do a batter planned city
+email: ahnafnafi98@gmail.com
 show_downloads: true
 theme: jekyll-theme-minimal
+
+
+# Add navigation
+header_pages:
+  - index.md
+  - about.md
+  - portfolio.md  # Add your portfolio page here
