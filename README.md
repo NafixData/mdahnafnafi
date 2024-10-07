@@ -14,8 +14,8 @@ Environment Engineering, Environment Science, Neural Network, Machile Learning, 
 
 ## Publications
 #### 1. Undergraduate Thesis
-**Thesis Title: Impact of Infrastructure Development on Air Quality (_2024_)**
-Supervisor: **Dr. Dipita Hossain**; Assosiate Professor, Department of Urban and Regional Planning;
+**Thesis Title: Impact of Infrastructure Development on Air Quality (_2024_)**  
+Supervisor: **Dr. Dipita Hossain**; Assosiate Professor, Department of Urban and Regional Planning
 
 
 
