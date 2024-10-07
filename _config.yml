@@ -2,12 +2,5 @@ title: Md. Ahnaf Nafi
 logo: /assets/img/Crop.jpeg
 description: >- 
   I'm an Urban Planner, working on Data Science to do a batter planned city    
-  [Email](mailto:ahnafnafi98@gmail.com)
-  
 show_downloads: true
 theme: jekyll-theme-minimal
-
-color-scheme: auto/light/dark
-
-plugins:
-  - jekyll-remote-theme
