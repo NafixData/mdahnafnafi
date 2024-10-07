@@ -5,6 +5,12 @@ description: >-
 show_downloads: true
 theme: jekyll-theme-minimal
 
+header_pages:
+  - index.md
+  - about.md
+  - portfolio.md
+  - projects.md
+  
 # Reading Files
 include:
   - _pages
