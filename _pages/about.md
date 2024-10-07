@@ -10,7 +10,7 @@ Hi, I am Ahnaf Nafi, a researcher with a focus on [your research field, e.g., Da
 
 Feel free to [download my CV](assets/cv.pdf) for a detailed overview of my academic journey.
 
-![Profile Picture](https://nafixdata.github.io/ahnafnafi/assets/profile_picture.jpg)
+![Profile Picture](https://nafixdata.github.io/ahnafnafi/assets/img/Crop.jpeg)
 
 I hold a Master's degree in [Your Field] from [University Name], and my research has been published in several academic journals, including:
 
