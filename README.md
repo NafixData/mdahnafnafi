@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Urban Planner
 
 ## Research Interest
