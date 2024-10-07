@@ -26,7 +26,7 @@ Supervisor: **Dr. Dipita Hossain**; Assosiate Professor, Department of Urban and
 
 
 
-#### Technical Skills
+## Technical Skills
 - Simulation: PTV Vissim
 - Programming: Python, R
 - Spatial Analysis: ArcGIS, QGIS
