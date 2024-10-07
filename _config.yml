@@ -18,7 +18,7 @@ theme: jekyll-theme-minimal
 
 # Author Information
 author:
-  name: Ahnaf Nafi
+  name: Ahnaf Nafi bal
   email: ahnafnafi98@gmail.com
   bio: "Researcher in [your field]. Focused on [specific topics]."
 
@@ -26,19 +26,4 @@ author:
 navigation:
   - title: "Home"
     url: "/"
-  - title: "About"
-    url: "_pages/about/"
-  - title: "Projects"
-    url: "_pages/projects/"
-  - title: "Portfolio"
-    url: "_pages/portfolio/"
 
-# Social Links
-social_links:
-  github: https://github.com/nafixdata
-  linkedin: https://linkedin.com/in/ahnafnafi
-  twitter: https://twitter.com/ahnafnafi
-
-# Enable plugins
-plugins:
-  - jekyll-feed
