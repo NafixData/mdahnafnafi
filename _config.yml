@@ -1,5 +1,5 @@
 #title: Md. Ahnaf Nafi
-#logo: /assets/img/Crop.jpeg
+logo: /assets/img/Crop.jpeg
 #description: >- 
   #I'm an Urban Planner, working on Data Science to do a batter planned city    
  # [Email](mailto:ahnafnafi98@gmail.com)
@@ -22,16 +22,16 @@ author:
   email: ahnafnafi98@gmail.com
   bio: "Researcher in [your field]. Focused on [specific topics]."
 
-# Navigation Links
+# Navigation Links 
 navigation:
   - title: "Home"
     url: "/"
   - title: "About"
-    url: "/about/"
+    url: "_pages/about.md"
   - title: "Projects"
-    url: "/projects/"
+    url: "_pages/projects/"
   - title: "Portfolio"
-    url: "/portfolio/"
+    url: "_pages/portfolio/"
 
 # Social Links
 social_links:
