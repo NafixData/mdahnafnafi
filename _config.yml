@@ -9,6 +9,5 @@ theme: jekyll-theme-minimal
 
 # Add navigation
 header_pages:
-  - index.md
   - about.md
-  - portfolio.md  # Add your portfolio page here
+  - portfolio.md
