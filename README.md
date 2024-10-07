@@ -11,6 +11,7 @@
 ## Standardized Test Scores
 - **IELTS**
 - **GRE**
+
 ## Publications
 #### 1. Undergraduate Thesis
 **Thesis Title: Impact of Infrastructure Development on Air Quality (_2024_)**
@@ -49,5 +50,5 @@ Supervisor: **Dr. Dipita Hossain**; Assosiate Professor, Department of Urban and
    Department of Urban and Regional Planning (URP)<br>
    Bangladesh University of Engineering and Technology (BUET),<br>
    Dhaka, Bangladesh.<br>
-   Email: [zafri@urp.buet.ac.bd](mailto:zafri@urp.buet.ac.bd )
+   Email: [zafri@urp.buet.ac.bd](mailto:zafri@urp.buet.ac.bd )  
    Relationship: Research Mentor
