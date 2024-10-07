@@ -4,3 +4,7 @@ description: >-
   I'm an Urban Planner, working on Data Science to do a batter planned city    
 show_downloads: true
 theme: jekyll-theme-minimal
+
+include:
+  - _pages
+  
