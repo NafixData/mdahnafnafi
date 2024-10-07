@@ -1,13 +1,22 @@
-# Data Scientist
+# Urban Planner
 
+## Research Interest: 
+#### Environment Engineering, Pollution (Air, Water, Soil), MAchine Learning, Deep Learning
 #### Technical Skills: Python, R, PTV Vissim, MS Office
 
-## Education		        		
+## Academic Credentials	        		
 - B.Sc, Urban and Regional Planning | Bangladesh Univerity of Engineering and Technology (_February 2025_)
 - H.S.C., Science | Birshrestha Noor Mohammad Public College (_July 2019_)
-- S.S.C., Science | Birshrestha Noor Mohammad Public College (May 2017_)
+- S.S.C., Science | Birshrestha Noor Mohammad Public College (_May 2017_)
 
-## Work Experience
+## Publications
+#### 1. Undergraduate Thesis
+##### Thesis Title: Impact of Infrastructure Development on Air Quality (_2024_)
+Supervisor: Dr. Dipita Hossain; Assosiate Professor, Department of Urban and Regional Planning;
+
+
+
+## Professional Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
