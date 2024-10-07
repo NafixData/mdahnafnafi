@@ -40,16 +40,16 @@ Supervisor: **Dr. Dipita Hossain**; Assosiate Professor, Department of Urban and
 - No awards Bhai
 
 ## References
-1. **Dr. Dipita Hossain**
-   Assosiate Professor,
-   Department of Urban and Regional Planning(URP)
-   Bangladesh University of Engineering and Technology (BUET),
-   Dhaka, Bangladesh.
-   Email: dipitahossain@urp.buet.ac.bd
-   Relationship: Thesis Supervisor
-2. Niaz Mahmud Zafri
-   Assistant Professor,
-   Department of Urban and Regional Planning (URP);
-   Bangladesh University of Engineering and Technology (BUET),
-   Dhaka, Bangladesh.
-   Email: zafri@urp.buet.ac.bd
+1. **Dr. Dipita Hossain** </br>
+   Assosiate Professor,</br>
+   Department of Urban and Regional Planning(URP)</br>
+   Bangladesh University of Engineering and Technology (BUET),</br>
+   Dhaka, Bangladesh.</br>
+   Email: dipitahossain@urp.buet.ac.bd </br>
+   Relationship: Thesis Supervisor </br>
+2. **Niaz Mahmud Zafri** </br>
+   Assistant Professor,</br>
+   Department of Urban and Regional Planning (URP);</br>
+   Bangladesh University of Engineering and Technology (BUET),</br>
+   Dhaka, Bangladesh.</br>
+   Email: zafri@urp.buet.ac.bd</br>
