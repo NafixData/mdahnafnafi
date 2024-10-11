@@ -4,8 +4,9 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-# My Portfolio
+## Portfolio
 
+Here are some of my projects and achievements.
 Welcome to my portfolio page. Here are some of my projects:
 
 ## Project 1
