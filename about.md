@@ -5,4 +5,5 @@ permalink: /about/
 ---
 
 ## About Me
-Write your content here...
+
+I'm an Urban Planner, working on Data Science to create better-planned cities.
